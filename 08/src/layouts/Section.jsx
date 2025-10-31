@@ -1,8 +1,5 @@
 
-
-
 const Section = ({children})=>{
-
 
     return (
         <section>

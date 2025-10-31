@@ -3,6 +3,7 @@ import './App.css';
 
 import Component_01 from './05조건부랜더링/01_Component';
 import Component_02 from './05조건부랜더링/02_Component';
+import Component_03 from './05조건부랜더링/03_Component';
 
 function App() {
   return (
@@ -16,7 +17,7 @@ function App() {
       <Component_02 isAuth={true}/>
       <hr/>
       {/* && */}
-
+      <Component_03 items={['aaa','bbb','ccc','ddd']}/>
     </div>
   );
 }

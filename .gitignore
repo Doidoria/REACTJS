@@ -3,3 +3,16 @@
 03/node_modules
 04/node_modules
 05/node_modules
+06/node_modules
+07/node_modules
+08/node_modules
+09/node_modules
+REACT_SPRINGBOOT-main/01_PARAM/FN/node_modules
+REACT_SPRINGBOOT-main/02_VALIDATION/FN/node_modules
+REACT_SPRINGBOOT-main/03_EXCEPTION/FN/node_modules
+REACT_SPRINGBOOT-main/04_JPA/FN/node_modules
+REACT_SPRINGBOOT-main/05_UPLOAD/FN/node_modules
+REACT_SPRINGBOOT-main/06_RESTFUL_API/FN/node_modules
+REACT_SPRINGBOOT-main/07_REDIS_2025-05-26/FN/node_modules
+REACT_SPRINGBOOT-main/99_BACKUP/07_SECURITY_TOKEN/FN/node_modules
+REACT_SPRINGBOOT-main/99_BACKUP/08_REDIS/FN/node_modules
